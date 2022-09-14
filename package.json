@@ -1,0 +1,22 @@
+{
+  "name": "satn-validate-signature",
+  "version": "1.0.0",
+  "description": "Validate the HMAC signature of a Shopify proxy request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregorybesson/satn-validate-signature.git"
+  },
+  "author": "Gregory Besson <bessong@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gregorybesson/satn-validate-signature/issues"
+  },
+  "homepage": "https://github.com/gregorybesson/satn-validate-signature#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
