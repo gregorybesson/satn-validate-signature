@@ -12,6 +12,7 @@
   },
   "author": "Gregory Besson <bessong@gmail.com>",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/gregorybesson/satn-validate-signature/issues"
   },
